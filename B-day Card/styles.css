@@ -1,0 +1,56 @@
+body {
+    margin: 100px auto;
+    width: 600px;
+    border: 2px solid black;
+    font-family: "Just Another Hand", cursive;
+    text-align: center;
+}
+
+h1 {
+    color: #c0deca;
+    text-shadow: 2px 0 black;
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+#main {
+    background: #e1b5c2;
+    display: flex;
+    letter-spacing: 2px;  
+}
+
+#hero {
+    width: 200px;
+    align-content: center;
+    padding: 30px;
+}
+
+.gift-cover {
+    background-image: url(images/bday-card.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+#gift-surprise:hover {
+    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U2YnVncTBlbHM4MjF2YTBlazJ2bnFvNjBkejduYWgxeXNmYng2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VdhyjjpL9P4XqciGPb/giphy.gif);
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+}
+
+.fineprint {
+    color: #606050;
+}
+
+span {
+    color: #ffb8b4;
+    font-size: 1.5rem;
+    text-shadow: 2px 0 black;
+}
+    
